@@ -9,6 +9,6 @@ For more information goto [documentation](https://docs.streamlit.io/en/stable/) 
 In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license. <br>
 For more information goto [documentation](https://pandas.pydata.org/docs/) of Streamlit <br>
 ## Screenshots
-![001](https://github.com/arabind-meher/NewsBot/blob/master/screenshots/001.png)
-![002](https://github.com/arabind-meher/NewsBot/blob/master/screenshots/002.png)
-![003](https://github.com/arabind-meher/NewsBot/blob/master/screenshots/003.png)
+![001](https://github.com/arabind-meher/Covid-19/blob/master/screenshots/001.png)
+![002](https://github.com/arabind-meher/Covid-19/blob/master/screenshots/002.png)
+![003](https://github.com/arabind-meher/Covid-19/blob/master/screenshots/003.png)
