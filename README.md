@@ -7,7 +7,7 @@ Streamlit is an open-source app framework for Machine Learning and Data Science 
 For more information goto [documentation](https://docs.streamlit.io/en/stable/) of Streamlit or [download](https://docs.streamlit.io/_/downloads/en/latest/pdf/) pdf <br>
 ### [Pandas](https://pandas.pydata.org/)
 In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license. <br>
-For more information goto [documentation](https://pandas.pydata.org/docs/) of Streamlit <br>
+For more information goto [documentation](https://pandas.pydata.org/docs/) of Pandas <br>
 ## Screenshots
 Date: 29 November 2020 (Sunday)
 ![001](https://github.com/arabind-meher/Covid-19/blob/master/screenshots/001.png) <br> <br>
